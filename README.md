@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [GetCollab:-To help other people in tech meet others.](https://github.com/Basit46/Get-Collab)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently working on Projects.
 
 - 💬 Ask me about **React and Tailwind css**
 
