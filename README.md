@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on Projects.
 
-- 💬 Ask me about **React and Tailwind css**
+- 💬 Ask me about **React, Tailwind css and Firebase**
 
 - 📫 How to reach me **Hassanbasitope@gmail.com**
 
