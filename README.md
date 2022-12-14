@@ -1,4 +1,4 @@
-<img alt="banner" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg?fj=1" />
+<img alt="banners" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg?fj=1" />
 <h1 align="center">Hi 👋, I'm Hassan Basit🤓</h1>
 <h3 align="center">A passionate Frontend developer from Nigeria.</h3>
 
