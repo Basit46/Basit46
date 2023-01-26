@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Hassanbasitope@gmail.com**
 
-- ⚡ Fun fact **I dream of codes**
+- ⚡ Fun fact **I dream of coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
